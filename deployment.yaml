@@ -17,3 +17,4 @@ spec:
         image: kulcsphu/demo:latest
         ports:
         - containerPort: 8888
+
